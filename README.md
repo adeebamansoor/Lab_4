@@ -5,7 +5,7 @@ This document contains three programming tasks designed to help you understand a
 Each task must be solved without using if-else statements.
 
 # Task 1: Determine Even or Odd Number
-Objective
+##Objective
 
 Write a program that:
 
@@ -17,7 +17,7 @@ Write a program that:
 
 
 # Task 2: Age Group Classification
-Objective
+##Objective
 
 Write a program that classifies a person’s age using the ternary operator into:
 
@@ -28,7 +28,7 @@ Write a program that classifies a person’s age using the ternary operator into
 
 
 # Task 3: Banking App
-Objective
+##Objective
 
 -Create a program that determines:
 
@@ -43,19 +43,13 @@ Account Type Rules
 -Greater than $500	Premium Account
 -Special Offer Eligibility
 
-A customer is eligible for a special offer if:
+###A customer is eligible for a special offer if:
 
-Their balance is greater than $200, AND
+-Their balance is greater than $200, AND
 
-They are a loyal customer (loyalty = 1)
+-They are a loyal customer (loyalty = 1)
 
-Otherwise, they are not eligible.
-
-Required Output
-
-Print the account type.
-
-Print special offer eligibility.
+-Otherwise, they are not eligible.
 
 
 # Conclusion
